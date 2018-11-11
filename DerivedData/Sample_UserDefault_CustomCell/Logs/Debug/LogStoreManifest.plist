@@ -5,6 +5,1544 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>0400983F-0748-4957-A346-5D9B423E8149</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0400983F-0748-4957-A346-5D9B423E8149.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563604976.81687701</real>
+			<key>timeStoppedRecording</key>
+			<real>563605025.36098504</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>0400983F-0748-4957-A346-5D9B423E8149</string>
+		</dict>
+		<key>09D856EC-E462-4894-AF1D-B05DA5A0D407</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>09D856EC-E462-4894-AF1D-B05DA5A0D407.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563605799.46403098</real>
+			<key>timeStoppedRecording</key>
+			<real>563605843.23200595</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>09D856EC-E462-4894-AF1D-B05DA5A0D407</string>
+		</dict>
+		<key>16677617-1B7F-4154-9E25-23AB52320F98</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>16677617-1B7F-4154-9E25-23AB52320F98.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563599375.20200205</real>
+			<key>timeStoppedRecording</key>
+			<real>563600514.41181898</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>16677617-1B7F-4154-9E25-23AB52320F98</string>
+		</dict>
+		<key>17D9B1D7-7678-4F46-A9E8-A18D1DB44D77</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>17D9B1D7-7678-4F46-A9E8-A18D1DB44D77.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563603272.41638005</real>
+			<key>timeStoppedRecording</key>
+			<real>563603290.86653602</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>17D9B1D7-7678-4F46-A9E8-A18D1DB44D77</string>
+		</dict>
+		<key>1C5013CB-6CF0-4453-B59B-FAECDC174527</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1C5013CB-6CF0-4453-B59B-FAECDC174527.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563600570.91889703</real>
+			<key>timeStoppedRecording</key>
+			<real>563600599.74732399</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>1C5013CB-6CF0-4453-B59B-FAECDC174527</string>
+		</dict>
+		<key>1FBC83FE-21C1-42E5-93AC-C8B80F36C00E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1FBC83FE-21C1-42E5-93AC-C8B80F36C00E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563603490.508973</real>
+			<key>timeStoppedRecording</key>
+			<real>563603517.82190299</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>1FBC83FE-21C1-42E5-93AC-C8B80F36C00E</string>
+		</dict>
+		<key>24FEC778-BC0F-439F-9C59-45DBE7C7147A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>24FEC778-BC0F-439F-9C59-45DBE7C7147A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563607121.93227601</real>
+			<key>timeStoppedRecording</key>
+			<real>563607166.63146996</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>24FEC778-BC0F-439F-9C59-45DBE7C7147A</string>
+		</dict>
+		<key>29229FAE-AC82-47E9-86B0-0E4167614C0B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>29229FAE-AC82-47E9-86B0-0E4167614C0B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563601052.94925296</real>
+			<key>timeStoppedRecording</key>
+			<real>563601253.73577905</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>29229FAE-AC82-47E9-86B0-0E4167614C0B</string>
+		</dict>
+		<key>2BB7D5F5-8BC8-4EAF-95FB-B109344842AC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2BB7D5F5-8BC8-4EAF-95FB-B109344842AC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563603293.20652699</real>
+			<key>timeStoppedRecording</key>
+			<real>563603487.94390297</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>2BB7D5F5-8BC8-4EAF-95FB-B109344842AC</string>
+		</dict>
+		<key>2BCE8DCD-87C4-4833-AB76-B5B916E68A7A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2BCE8DCD-87C4-4833-AB76-B5B916E68A7A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563605697.421839</real>
+			<key>timeStoppedRecording</key>
+			<real>563605752.29565096</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>2BCE8DCD-87C4-4833-AB76-B5B916E68A7A</string>
+		</dict>
+		<key>2F5231BC-9D24-425D-AD20-3364BF1D0B0F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2F5231BC-9D24-425D-AD20-3364BF1D0B0F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563600521.72364604</real>
+			<key>timeStoppedRecording</key>
+			<real>563600566.35157299</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>2F5231BC-9D24-425D-AD20-3364BF1D0B0F</string>
+		</dict>
+		<key>3B3C06B0-DB13-439A-8510-DEEB5385A000</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3B3C06B0-DB13-439A-8510-DEEB5385A000.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563601769.71269202</real>
+			<key>timeStoppedRecording</key>
+			<real>563601885.31263101</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>3B3C06B0-DB13-439A-8510-DEEB5385A000</string>
+		</dict>
+		<key>3DA51766-2391-4341-B98C-F8B4AC222616</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3DA51766-2391-4341-B98C-F8B4AC222616.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563605282.12177503</real>
+			<key>timeStoppedRecording</key>
+			<real>563605489.25490797</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>3DA51766-2391-4341-B98C-F8B4AC222616</string>
+		</dict>
+		<key>41A12491-C462-47DE-949B-486A60C9B35F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>41A12491-C462-47DE-949B-486A60C9B35F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563605986.672158</real>
+			<key>timeStoppedRecording</key>
+			<real>563606037.83363998</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>41A12491-C462-47DE-949B-486A60C9B35F</string>
+		</dict>
+		<key>49CD9AED-3DD8-4348-BBD8-7EDE8C68CF17</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>49CD9AED-3DD8-4348-BBD8-7EDE8C68CF17.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563605494.41202104</real>
+			<key>timeStoppedRecording</key>
+			<real>563605692.950804</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>49CD9AED-3DD8-4348-BBD8-7EDE8C68CF17</string>
+		</dict>
+		<key>5070C3FD-928A-49A9-ABD7-32B0B99208DC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5070C3FD-928A-49A9-ABD7-32B0B99208DC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563606285.22461104</real>
+			<key>timeStoppedRecording</key>
+			<real>563606356.83381295</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>5070C3FD-928A-49A9-ABD7-32B0B99208DC</string>
+		</dict>
+		<key>53E0DE64-49FB-4596-901E-A780F49D6FB0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>53E0DE64-49FB-4596-901E-A780F49D6FB0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563601886.05447197</real>
+			<key>timeStoppedRecording</key>
+			<real>563602134.39794397</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>53E0DE64-49FB-4596-901E-A780F49D6FB0</string>
+		</dict>
+		<key>54D0E05B-7711-445E-91FA-C4E06A7342E9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>54D0E05B-7711-445E-91FA-C4E06A7342E9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563606182.39364898</real>
+			<key>timeStoppedRecording</key>
+			<real>563606251.13578403</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>54D0E05B-7711-445E-91FA-C4E06A7342E9</string>
+		</dict>
+		<key>59990DC7-3BB3-4CF8-99F8-A778AD6CD961</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>59990DC7-3BB3-4CF8-99F8-A778AD6CD961.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563603707.95068204</real>
+			<key>timeStoppedRecording</key>
+			<real>563603753.14143205</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>59990DC7-3BB3-4CF8-99F8-A778AD6CD961</string>
+		</dict>
+		<key>59C0D4BD-1459-46FE-8EF9-A03538DE527A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>59C0D4BD-1459-46FE-8EF9-A03538DE527A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563606443.53742504</real>
+			<key>timeStoppedRecording</key>
+			<real>563606659.89461696</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>59C0D4BD-1459-46FE-8EF9-A03538DE527A</string>
+		</dict>
+		<key>5B121916-CBA4-4363-9B41-C5216C368A10</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5B121916-CBA4-4363-9B41-C5216C368A10.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563605026.37494397</real>
+			<key>timeStoppedRecording</key>
+			<real>563605276.30800998</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>5B121916-CBA4-4363-9B41-C5216C368A10</string>
+		</dict>
+		<key>5D784249-B2B2-4AF4-886B-0AF7CC0591D3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5D784249-B2B2-4AF4-886B-0AF7CC0591D3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563600669.21657598</real>
+			<key>timeStoppedRecording</key>
+			<real>563600949.63101304</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>5D784249-B2B2-4AF4-886B-0AF7CC0591D3</string>
+		</dict>
+		<key>5F24E946-665E-4AFB-92D0-1F75F5872579</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5F24E946-665E-4AFB-92D0-1F75F5872579.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563603973.69690502</real>
+			<key>timeStoppedRecording</key>
+			<real>563604007.28679395</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>5F24E946-665E-4AFB-92D0-1F75F5872579</string>
+		</dict>
+		<key>61254D0E-1C87-4959-AAC9-DFB3CD0AD98B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>61254D0E-1C87-4959-AAC9-DFB3CD0AD98B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563602365.13485503</real>
+			<key>timeStoppedRecording</key>
+			<real>563603142.59739494</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>61254D0E-1C87-4959-AAC9-DFB3CD0AD98B</string>
+		</dict>
+		<key>6441969F-44CA-48C2-A4E2-035F8CE4B9E5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6441969F-44CA-48C2-A4E2-035F8CE4B9E5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563606394.05626404</real>
+			<key>timeStoppedRecording</key>
+			<real>563606408.52506304</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>6441969F-44CA-48C2-A4E2-035F8CE4B9E5</string>
+		</dict>
+		<key>65B37F43-DF90-4D7B-94DB-EF26DE898C04</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>65B37F43-DF90-4D7B-94DB-EF26DE898C04.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563601256.34025097</real>
+			<key>timeStoppedRecording</key>
+			<real>563601300.49576497</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>65B37F43-DF90-4D7B-94DB-EF26DE898C04</string>
+		</dict>
+		<key>67C2C670-00A2-49F5-9C27-19932D90D937</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>67C2C670-00A2-49F5-9C27-19932D90D937.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563604022.87450302</real>
+			<key>timeStoppedRecording</key>
+			<real>563604048.11046302</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>67C2C670-00A2-49F5-9C27-19932D90D937</string>
+		</dict>
+		<key>6EE0E393-6363-4D93-BF2B-B5AEA0338726</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6EE0E393-6363-4D93-BF2B-B5AEA0338726.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563606664.30545294</real>
+			<key>timeStoppedRecording</key>
+			<real>563606923.05087399</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>6EE0E393-6363-4D93-BF2B-B5AEA0338726</string>
+		</dict>
+		<key>8438D488-FF0C-4350-9D3D-CD1D55458B0E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8438D488-FF0C-4350-9D3D-CD1D55458B0E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563606069.15734804</real>
+			<key>timeStoppedRecording</key>
+			<real>563606082.59520102</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>8438D488-FF0C-4350-9D3D-CD1D55458B0E</string>
+		</dict>
+		<key>8C8C65AF-93F3-482B-8CD3-652F9E1D2201</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8C8C65AF-93F3-482B-8CD3-652F9E1D2201.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563601645.26877296</real>
+			<key>timeStoppedRecording</key>
+			<real>563601768.09163201</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>8C8C65AF-93F3-482B-8CD3-652F9E1D2201</string>
+		</dict>
+		<key>98F98D42-0701-499E-910A-54F992552747</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>98F98D42-0701-499E-910A-54F992552747.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563605847.69012499</real>
+			<key>timeStoppedRecording</key>
+			<real>563605871.78618801</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>98F98D42-0701-499E-910A-54F992552747</string>
+		</dict>
+		<key>AA8E0813-276A-49E2-82BE-C7325FDEB43D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AA8E0813-276A-49E2-82BE-C7325FDEB43D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563602344.013659</real>
+			<key>timeStoppedRecording</key>
+			<real>563602364.29648304</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>AA8E0813-276A-49E2-82BE-C7325FDEB43D</string>
+		</dict>
+		<key>AB02A41E-DB4D-4CB8-AAF5-7CEA8966A3B5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AB02A41E-DB4D-4CB8-AAF5-7CEA8966A3B5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563603836.17411995</real>
+			<key>timeStoppedRecording</key>
+			<real>563603971.83849394</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>AB02A41E-DB4D-4CB8-AAF5-7CEA8966A3B5</string>
+		</dict>
+		<key>B09D0B4A-677E-4E3C-9F08-DC5D39F5DDA5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B09D0B4A-677E-4E3C-9F08-DC5D39F5DDA5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563606083.54247403</real>
+			<key>timeStoppedRecording</key>
+			<real>563606178.50110102</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>B09D0B4A-677E-4E3C-9F08-DC5D39F5DDA5</string>
+		</dict>
+		<key>B3ED07DA-39A5-4C23-BBDC-06C203750792</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B3ED07DA-39A5-4C23-BBDC-06C203750792.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563606409.52440202</real>
+			<key>timeStoppedRecording</key>
+			<real>563606425.17886198</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>B3ED07DA-39A5-4C23-BBDC-06C203750792</string>
+		</dict>
+		<key>B43490BC-03B2-4EB4-A53E-4D7A5DA6CE12</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B43490BC-03B2-4EB4-A53E-4D7A5DA6CE12.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563604048.92654598</real>
+			<key>timeStoppedRecording</key>
+			<real>563604080.96626604</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>B43490BC-03B2-4EB4-A53E-4D7A5DA6CE12</string>
+		</dict>
+		<key>C6B4CAE7-5DA0-4167-849D-0E9E08BE186E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C6B4CAE7-5DA0-4167-849D-0E9E08BE186E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563603754.05353105</real>
+			<key>timeStoppedRecording</key>
+			<real>563603831.10344303</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>C6B4CAE7-5DA0-4167-849D-0E9E08BE186E</string>
+		</dict>
+		<key>CAE27673-B2E7-4E36-910F-AF4D7C145B82</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CAE27673-B2E7-4E36-910F-AF4D7C145B82.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563606359.07274699</real>
+			<key>timeStoppedRecording</key>
+			<real>563606393.27950799</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>CAE27673-B2E7-4E36-910F-AF4D7C145B82</string>
+		</dict>
+		<key>CED711CE-21B2-4DFB-B46C-28A14995EF25</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CED711CE-21B2-4DFB-B46C-28A14995EF25.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563600603.29470396</real>
+			<key>timeStoppedRecording</key>
+			<real>563600663.93318105</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>CED711CE-21B2-4DFB-B46C-28A14995EF25</string>
+		</dict>
+		<key>D0A687B7-1051-4008-8BA1-09011AC0D217</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D0A687B7-1051-4008-8BA1-09011AC0D217.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563605930.08420706</real>
+			<key>timeStoppedRecording</key>
+			<real>563605985.87105095</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>D0A687B7-1051-4008-8BA1-09011AC0D217</string>
+		</dict>
+		<key>D5497C37-AD01-4625-BB61-10C0C9262611</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D5497C37-AD01-4625-BB61-10C0C9262611.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563604084.76456702</real>
+			<key>timeStoppedRecording</key>
+			<real>563604093.52376604</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>D5497C37-AD01-4625-BB61-10C0C9262611</string>
+		</dict>
+		<key>D6CC12AE-E58D-470A-BE4B-22E2C7FEDAC3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D6CC12AE-E58D-470A-BE4B-22E2C7FEDAC3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563606426.22773099</real>
+			<key>timeStoppedRecording</key>
+			<real>563606442.67068005</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>D6CC12AE-E58D-470A-BE4B-22E2C7FEDAC3</string>
+		</dict>
+		<key>D7FFAE1D-21A6-47A7-88A1-9866A4680508</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D7FFAE1D-21A6-47A7-88A1-9866A4680508.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563602299.45812094</real>
+			<key>timeStoppedRecording</key>
+			<real>563602340.52982903</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>D7FFAE1D-21A6-47A7-88A1-9866A4680508</string>
+		</dict>
+		<key>E687DAB0-56C8-4FE6-B384-CCD2BE1DE313</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E687DAB0-56C8-4FE6-B384-CCD2BE1DE313.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563602136.95975006</real>
+			<key>timeStoppedRecording</key>
+			<real>563602295.66310704</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>E687DAB0-56C8-4FE6-B384-CCD2BE1DE313</string>
+		</dict>
+		<key>E6B29343-9C39-499F-BC7A-5CBC46C03426</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E6B29343-9C39-499F-BC7A-5CBC46C03426.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563605757.00605297</real>
+			<key>timeStoppedRecording</key>
+			<real>563605795.89871204</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>E6B29343-9C39-499F-BC7A-5CBC46C03426</string>
+		</dict>
+		<key>EAE34738-9A72-456A-A312-D4D60A57D749</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EAE34738-9A72-456A-A312-D4D60A57D749.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563604147.25001097</real>
+			<key>timeStoppedRecording</key>
+			<real>563604970.38127601</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>EAE34738-9A72-456A-A312-D4D60A57D749</string>
+		</dict>
+		<key>F2EC3C22-6121-482A-9219-933689DB6A0A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F2EC3C22-6121-482A-9219-933689DB6A0A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563600951.78446603</real>
+			<key>timeStoppedRecording</key>
+			<real>563601048.42415202</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>F2EC3C22-6121-482A-9219-933689DB6A0A</string>
+		</dict>
+		<key>F568C443-BBFC-457E-9D34-D18ADB2799B7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F568C443-BBFC-457E-9D34-D18ADB2799B7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563606926.58685303</real>
+			<key>timeStoppedRecording</key>
+			<real>563607118.24211597</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>F568C443-BBFC-457E-9D34-D18ADB2799B7</string>
+		</dict>
+		<key>F68DAB37-3BDC-428D-859A-B52237787EB1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F68DAB37-3BDC-428D-859A-B52237787EB1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563603147.32567894</real>
+			<key>timeStoppedRecording</key>
+			<real>563603266.78670895</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>F68DAB37-3BDC-428D-859A-B52237787EB1</string>
+		</dict>
+		<key>FB5BCDFF-5019-42FB-8BAF-89D6F86B1F5E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FB5BCDFF-5019-42FB-8BAF-89D6F86B1F5E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563601303.89838398</real>
+			<key>timeStoppedRecording</key>
+			<real>563601543.91838205</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>FB5BCDFF-5019-42FB-8BAF-89D6F86B1F5E</string>
+		</dict>
+		<key>FC4CF72E-5FBB-40D0-B2D0-D2C0792B51F7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FC4CF72E-5FBB-40D0-B2D0-D2C0792B51F7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563606038.86654794</real>
+			<key>timeStoppedRecording</key>
+			<real>563606068.19019699</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>FC4CF72E-5FBB-40D0-B2D0-D2C0792B51F7</string>
+		</dict>
+		<key>FD87DD60-5F78-4E8C-98E6-BF6F45CD51B1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FD87DD60-5F78-4E8C-98E6-BF6F45CD51B1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563605872.89525795</real>
+			<key>timeStoppedRecording</key>
+			<real>563605911.38608003</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>FD87DD60-5F78-4E8C-98E6-BF6F45CD51B1</string>
+		</dict>
+		<key>FE56BF6D-5954-46DF-897A-7FEFBF3FEC7D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FE56BF6D-5954-46DF-897A-7FEFBF3FEC7D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sample_UserDefault_CustomCell project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sample_UserDefault_CustomCell</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>timeStartedRecording</key>
+			<real>563606254.63311803</real>
+			<key>timeStoppedRecording</key>
+			<real>563606282.26108003</real>
+			<key>title</key>
+			<string>Debug Sample_UserDefault_CustomCell</string>
+			<key>uniqueIdentifier</key>
+			<string>FE56BF6D-5954-46DF-897A-7FEFBF3FEC7D</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
